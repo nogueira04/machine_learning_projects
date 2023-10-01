@@ -1,2 +1,3 @@
 # machine_learning_projects
-Machine Learning projects
+Projects made with machine learning, using python, pandas, numpy and scikit-learn.
+Details contained on each folder.
