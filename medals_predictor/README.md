@@ -1,0 +1,1 @@
+Predict medals based on previous earned medals and athlete number using linear regression.

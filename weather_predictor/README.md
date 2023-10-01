@@ -1,0 +1,1 @@
+Model to predict max temperature using Ridge Regression.
